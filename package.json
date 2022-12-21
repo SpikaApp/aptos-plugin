@@ -1,5 +1,5 @@
 {
-  "name": "aptos-wallet-plugin",
+  "name": "aptos-plugin",
   "version": "0.1.1",
   "description": "Spika plugin to use with Aptos Wallet Adapter",
   "author": "Spika",
