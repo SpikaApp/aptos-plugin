@@ -2,13 +2,13 @@
 
 #### Install with npm
 
-`npm i @spikawallet/aptos-plugin`
+`npm i @spika/aptos-plugin`
 
 #### Install with Yarn
 
-`yarn add @spikawallet/aptos-plugin`
+`yarn add @spika/aptos-plugin`
 
 #### Links
 
-- [Spika Wallet](https://docs.spika.app)
+- [Spika Wallet](https://www.spika.app)
 - [Aptos Wallet Adapter](https://github.com/aptos-labs/aptos-wallet-adapter)
