@@ -1,12 +1,12 @@
-import { AptosWallet } from "../index";
+import { SpikaWallet } from "../index";
 
 /*
 Basic tests to make sure basic variables and functions are defined on the wallet
 
 Note: change AptosWallet to match your class name
 */
-describe("AptosWallet", () => {
-  const wallet = new AptosWallet();
+describe("SpikaWallet", () => {
+  const wallet = new SpikaWallet();
 
   test("defines name", () => {
     expect(typeof wallet.name).toBe("string");

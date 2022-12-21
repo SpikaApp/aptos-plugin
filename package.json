@@ -1,8 +1,8 @@
 {
-  "name": "wallet-adapter-plugin-template",
-  "version": "0.1.0",
-  "description": "Petra plugin to use with Aptos Wallet Adapter",
-  "author": "Petra Aptos",
+  "name": "aptos-wallet-plugin",
+  "version": "0.1.1",
+  "description": "Spika plugin to use with Aptos Wallet Adapter",
+  "author": "Spika",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
